@@ -2,7 +2,7 @@
   {
     "name": "ProHire",
     "desc": "ProHire is an advanced online job portal that curates top-notch job opportunities from leading global companies.",
-    "image": "Home",
+    "image": "assets/images/projects/Home.png",
     "category": "website",
     "links": {
       "view": "https://github.com/akashpadir42/ProHire",
@@ -12,7 +12,7 @@
   {
     "name": "Smart Banking Management",
     "desc": "Application made using Java Programming Language, named MoneyAdmin, offers a user-friendly interface to perform essential banking operations efficiently.",
-    "image": "banking",
+    "image": "assets/images/projects/banking.png",
     "category": "console",
     "links": {
       "view": "https://github.com/akashpadir42/MoneyAdmin_SmartBankingManagement",
@@ -22,7 +22,7 @@
   {
     "name": "ShopifySplash",
     "desc": "I designed a Shopify website with key features like mobile responsiveness, eye-catching animations, product listings with pricing, a testimonial section, and easy contact options.",
-    "image": "shopify",
+    "image": "assets/images/projects/shopify.png",
     "category": "website",
     "links": {
       "view": "https://github.com/akashpadir42/ShopifySplash",
@@ -32,7 +32,7 @@
   {
     "name": "IPL Data Analysis",
     "desc": "In this project, I conducted Exploratory Data Analysis (EDA) on the IPL Match Dataset spanning from 2008 to 2023, which is available at the Kaggle.",
-    "image": "IPL1",
+    "image": "assets/images/projects/IPL1.png",
     "category": "Data Analysis",
     "links": {
       "view": "https://github.com/akashpadir42/IPL_Data_Analysis",
@@ -42,7 +42,7 @@
   {
     "name": "Zomato Dataset Analysis",
     "desc": "During my internship, I actively contributed to the project Analysis within the Dataset Of Zomato Food Delivery Company.",
-    "image": "zomato",
+    "image": "assets/images/projects/zomato.png",
     "category": "Data Analysis",
     "links": {
       "view": "https://github.com/akashpadir42/Zomato_Dataset_Analysis_Internship_Project",
@@ -52,7 +52,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
+    "image": "assets/images/projects/portfolio1.png",
     "category": "basicweb",
     "links": {
       "view": "#",
